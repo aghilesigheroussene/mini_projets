@@ -2,7 +2,6 @@
 
 Un mini projet Python permettant de gérer une liste de tâches depuis le terminal. Il suit une architecture **MVC** claire et utilise un fichier `.json` pour sauvegarder les données.
 
----
 
 ## Structure du projet
 
@@ -28,7 +27,7 @@ task_manager/
 - 📄 Sauvegarde dans `data/taches.json`
 - 🔁 Menu interactif en boucle
 
----
+
 ## Exemple de Menu
 
 ---Gestionnaire des tâches---
@@ -41,7 +40,7 @@ task_manager/
 
 ## Technologies utilisées
 
--Python 3.x
+-Python 3.11.9
 -Programmation Orientée Objet (POO)
 -JSON (stockage)
 -Architecture MVC (Modèle - Vue - Contrôleur)
